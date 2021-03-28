@@ -19,6 +19,7 @@ GFM은 표 기능의 확장을 지원한다. 각 줄은 pipe('|')로 분리되�
 
 -> 1열은 좌측정렬, 2열은 가운데정렬, 3열은 우측정렬된 모습이다.
 
+<br>
 
 ## **2. Task list items**
 
@@ -34,6 +35,7 @@ GFM은 다음과 같은 방법으로 체크리스트를 만들 수 있다. 소�
 - [x] foo
 - [ ] bar
 
+<br>
 
 ## **3. Strikethrough**
 
@@ -48,6 +50,7 @@ GFM을 통해 취소선을 표현할 수 있다. 취소선을 표현하기 위�
 
 ~~Hi~~ Hello, world!
 
+<br>
 
 ## **4. Autolinks**
 
@@ -56,6 +59,7 @@ GFM은 오토링크 기능을 제공한다. 오토링크는 링크를 지정할 
 - 예시
 www.commonmark.org
 
+<br>
 
 ## **5. Disallowed Raw HTML**
 

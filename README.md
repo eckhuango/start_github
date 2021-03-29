@@ -60,6 +60,8 @@ GFM은 오토링크 기능을 제공한다. 오토링크는 링크를 지정할 
 - 예시  
 www.commonmark.org
 
+→ 도메인만 치자 하이퍼링크 기능 제공
+
 <br>
 
 ## **5. Disallowed Raw HTML**
